@@ -1,5 +1,4 @@
 # Create a new repository
-
-### My first GitHub repo.
+## git_test - My first GitHub repo.
 
  “Ciao Odin!”
